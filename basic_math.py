@@ -10,7 +10,7 @@ def main():
     print("4*6={}".format(4 * 6))
     print("2+5*3={}".format(2 + 5 * 3))
     print("2^3={}".format(2 ^ 3))  # bitwise operator
-    print("2**3={}".format(2**3))  # exponent
+    print("2**3={}".format(2 ** 3))  # exponent
     print("8%3={}".format(8 % 3))  # modulo
     print("3**2={}".format(3 ** 2))  # powers
     print("9**0.5={}".format(9 ** 0.5))  # square root
